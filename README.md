@@ -100,10 +100,10 @@ Navigate to `http://localhost:3000` and connect your MetaMask wallet.
 
 ## 🤝 Let's Connect
 
-Built by **Nitish Rai** and **Deevanshu Aggarwal** — CSE student at Bennett University, actively seeking internships in full-stack and Web3 engineering.
+Built by **Deevanshu Aggarwal** and **Nitish Rai** — CSE student at Bennett University, actively seeking internships in full-stack and Web3 engineering.
 
 - 🔗 **LinkedIn:** [linkedin.com/in/nitish-rai-dev](https://linkedin.com/in/nitish-rai-dev)
-- 📧 **Email:** mailnr7000@gmail.com  || deevanshuaggarwal777@gmail.com
+- 📧 **Email:** deevanshuaggarwal777@gmail.com  || mailnr7000@gmail.com  
 
 ---
 
